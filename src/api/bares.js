@@ -22,6 +22,18 @@ router.get("/", async (request, response) => {
   response.json(result);
 });
 
+router.get("/:id", async (request, response) => {
+  const { id: _id } = request.params;
+
+  const bares = await db.get("bares");
+
+  const result = await bares.findOne({ _id });
+
+  db.close();
+
+  response.json(result);
+});
+
 router.post("/agregar", async (request, response, next) => {
   try {
     const bar = await schema.validateAsync(request.body);

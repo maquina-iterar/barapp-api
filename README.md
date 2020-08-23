@@ -43,3 +43,9 @@ npm run test
 ```
 npm run dev
 ```
+
+## Requisitos
+
+* mongodb server
+
+* renombrar el .env.sample a .env y modificar las configuraciones según requiera.
