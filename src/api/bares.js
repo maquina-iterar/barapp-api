@@ -34,6 +34,38 @@ router.get("/:id", async (request, response) => {
   response.json(result);
 });
 
+router.post("/:id/:valoracion", async (request, response) => {
+  const { id: _id, valoracion } = request.params;
+
+  const bares = await db.get("bares");
+
+  let ok = false;
+
+  if (valoracion.toLowerCase() === "megusta") {
+    await bares.update({ _id }, { $inc: { meGusta: 1 } });
+    ok = true;
+  } else if (valoracion.toLowerCase() === "nomegusta") {
+    await bares.update({ _id }, { $inc: { noMeGusta: 1 } });
+    ok = true;
+  }
+
+  db.close();
+
+  response.send(ok ? 200 : 400);
+});
+
+router.post("/:id/nomegusta", async (request, response) => {
+  const { id: _id } = request.params;
+
+  const bares = await db.get("bares");
+
+  await bares.update({ _id }, { $inc: { meGusta: 1 } });
+
+  db.close();
+
+  response.send(200);
+});
+
 router.post("/agregar", async (request, response, next) => {
   try {
     const bar = await schema.validateAsync(request.body);
