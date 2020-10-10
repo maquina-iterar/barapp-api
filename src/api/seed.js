@@ -45,7 +45,7 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: true,
-      musiscaEnVivo: false,
+      musicaEnVivo: false,
       espacioAlAireLibre: espacioAlAireLibreOptions.Abierto,
     },
     createdAt: new Date().toISOString(),
@@ -72,7 +72,7 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: true,
-      musiscaEnVivo: false,
+      musicaEnVivo: false,
       espacioAlAireLibre: espacioAlAireLibreOptions.Abierto,
     },
     createdAt: new Date().toISOString(),
@@ -101,7 +101,7 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: true,
-      musiscaEnVivo: true,
+      musicaEnVivo: true,
       espacioAlAireLibre: espacioAlAireLibreOptions.Techado,
     },
     createdAt: new Date().toISOString(),
@@ -132,7 +132,7 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: false,
-      musiscaEnVivo: false,
+      musicaEnVivo: false,
       espacioAlAireLibre: espacioAlAireLibreOptions.No,
     },
     createdAt: new Date().toISOString(),
@@ -144,7 +144,8 @@ const baresSeed = [
     meGusta: 0,
     noMeGusta: 0,
     nombre: "Cervecería Intrinsical",
-    descripcion: "Cervecería artesanal chilena: Cervecería de barrio directo a tu casa 🍺",
+    descripcion:
+      "Cervecería artesanal chilena: Cervecería de barrio directo a tu casa 🍺",
     fotoUrl: `${process.env.STATIC_FILES_URL}/cerveceria-artesanal-chilena-0000.jpg`,
     direccion: "Brasil 88, Santiago centro, Chile",
     pais: paises.Chile,
@@ -160,10 +161,9 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: true,
-      musiscaEnVivo: false,
+      musicaEnVivo: false,
       espacioAlAireLibre: espacioAlAireLibreOptions.Abierto,
-      // TODO: El frontend no soporta nuevas caracteristicas.
-      // fumadores: true,
+      fumadores: true,
     },
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
@@ -174,14 +174,13 @@ const baresSeed = [
     meGusta: 0,
     noMeGusta: 0,
     nombre: "El Mesón del Buen Comer",
-    descripcion: "Somos el Jardín Cervecero del centro de Santiago. Con 25 variedades de cerveza artesanal en Schop y una gran cantidad de cervezas nacionales e importadas.",
+    descripcion:
+      "Somos el Jardín Cervecero del centro de Santiago. Con 25 variedades de cerveza artesanal en Schop y una gran cantidad de cervezas nacionales e importadas.",
     fotoUrl: `${process.env.STATIC_FILES_URL}/el-meson-chile.jpg`,
     direccion: "Brasil 88, Santiago centro, Chile",
     pais: paises.Chile,
     ubicacionUrl: "https://goo.gl/maps/4dXKgTeVZBovPSFZ7",
-    galeria: [
-      `${process.env.STATIC_FILES_URL}/el-meson-chile.jpg`,
-    ],
+    galeria: [`${process.env.STATIC_FILES_URL}/el-meson-chile.jpg`],
     contactos: [
       {
         redSocial: redesSociales.instagram,
@@ -190,9 +189,9 @@ const baresSeed = [
     ],
     caracteristicas: {
       opcionVegetariana: true,
-      musiscaEnVivo: false,
+      musicaEnVivo: false,
       espacioAlAireLibre: espacioAlAireLibreOptions.Abierto,
-      // fumadores: true,
+      fumadores: true,
     },
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),

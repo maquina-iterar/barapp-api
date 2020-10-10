@@ -5,6 +5,8 @@ const router = express.Router();
 
 const Joi = require("@hapi/joi");
 
+const authorizer = require("./authorizer");
+
 const schema = Joi.object({
   nombre: Joi.string().trim().min(3).max(50).required(),
   fotoUrl: Joi.string().uri().trim().required(),
@@ -23,35 +25,61 @@ router.get("/", async (request, response) => {
 });
 
 router.get("/:id", async (request, response) => {
-  const { id: _id } = request.params;
+  const { id: _id, userId } = request.params;
 
   const bares = await db.get("bares");
 
   const result = await bares.findOne({ _id });
 
-  db.close();
+  let miValoracion = null;
 
-  response.json(result);
-});
-
-router.post("/:id/:valoracion", async (request, response) => {
-  const { id: _id, valoracion } = request.params;
-
-  const bares = await db.get("bares");
-
-  let ok = false;
-
-  if (valoracion.toLowerCase() === "megusta") {
-    await bares.update({ _id }, { $inc: { meGusta: 1 } });
-    ok = true;
-  } else if (valoracion.toLowerCase() === "nomegusta") {
-    await bares.update({ _id }, { $inc: { noMeGusta: 1 } });
-    ok = true;
+  if (userId) {
+    const valoraciones = await db.get("valoraciones");
+    const valoracion = await valoraciones.findOne({ barId: _id, userId });
+    miValoracion = valoracion ? valoracion.valor : null;
   }
 
   db.close();
 
-  response.send(ok ? 200 : 400);
+  response.json({ ...result, miValoracion });
+});
+
+router.post("/:id/:valoracion", authorizer, async (request, response, next) => {
+  try {
+    const { id: _id, valoracion } = request.params;
+
+    const valoracionesPermitidas = ["megusta", "nomegusta"];
+
+    if (!valoracionesPermitidas.includes(valoracion.toLowerCase()))
+      throw new Error("invalid-valoracion");
+
+    const isLike = valoracion.toLowerCase() === "megusta";
+
+    const bares = await db.get("bares");
+    const valoraciones = await db.get("valoraciones");
+
+    const incrementar = isLike ? { meGusta: 1 } : { noMeGusta: 1 };
+
+    valoraciones.createIndex({ barId: 1, userId: 1 }, { unique: true });
+
+    await valoraciones.insert({
+      barId: _id,
+      valor: valoracion.toLowerCase(),
+      userId: request.user.sub,
+      userInfo: request.user["https://info.barapp.com/"],
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
+      deletedAt: null,
+    });
+
+    await bares.update({ _id }, { $inc: incrementar });
+
+    db.close();
+
+    response.send(200);
+  } catch (error) {
+    next(error);
+  }
 });
 
 router.post("/:id/nomegusta", async (request, response) => {
