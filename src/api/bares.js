@@ -25,7 +25,8 @@ router.get("/", async (request, response) => {
 });
 
 router.get("/:id", async (request, response) => {
-  const { id: _id, userId } = request.params;
+  const { id: _id } = request.params;
+  const userId = request.query.userId;
 
   const bares = await db.get("bares");
 
@@ -36,6 +37,7 @@ router.get("/:id", async (request, response) => {
   if (userId) {
     const valoraciones = await db.get("valoraciones");
     const valoracion = await valoraciones.findOne({ barId: _id, userId });
+
     miValoracion = valoracion ? valoracion.valor : null;
   }
 
