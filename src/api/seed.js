@@ -34,6 +34,11 @@ const baresSeed = [
     direccion: "Av. Pedro Goyena 60",
     pais: paises.Argentina,
     ubicacionUrl: "https://goo.gl/maps/fsdAcFhHQL4XQRGk7",
+    ubicacion: {
+      type: "Point",
+      coordinates: [-34.625371, -58.427939],
+      index: "2dsphere",
+    },
     galeria: [
       `${process.env.STATIC_FILES_URL}/club-de-la-birra-argentina-0000.jpeg`,
     ],
@@ -63,6 +68,11 @@ const baresSeed = [
     direccion: "Raúl Scalabrini Ortíz 601",
     pais: paises.Argentina,
     ubicacionUrl: "https://goo.gl/maps/1tcWUtctiSdpmfCR9",
+    ubicacion: {
+      type: "Point",
+      coordinates: [-34.597835, -58.435391],
+      index: "2dsphere",
+    },
     galeria: [`${process.env.STATIC_FILES_URL}/however-bar-argentina-0000.png`],
     contactos: [
       {
@@ -90,6 +100,11 @@ const baresSeed = [
     direccion: "Av. del Libertador 3883",
     pais: paises.Argentina,
     ubicacionUrl: "https://goo.gl/maps/Xnt97AkHjGGvp5tLA",
+    ubicacion: {
+      type: "Point",
+      coordinates: [-34.570471, -58.421854],
+      index: "2dsphere",
+    },
     galeria: [
       `${process.env.STATIC_FILES_URL}/avant-garten-argentina-0000.jpg`,
     ],
@@ -119,6 +134,11 @@ const baresSeed = [
     direccion: "Calle de Hortaleza 23",
     pais: paises.Espana,
     ubicacionUrl: "https://goo.gl/maps/CnWhRN8Z17TBmX3Z9",
+    ubicacion: {
+      type: "Point",
+      coordinates: [40.421742, -3.700109],
+      index: "2dsphere",
+    },
     galeria: [
       `${process.env.STATIC_FILES_URL}/el-tigre-del-norte-espana-0000.jpg`,
       `${process.env.STATIC_FILES_URL}/el-tigre-del-norte-espana-0001.jpg`,
@@ -150,6 +170,11 @@ const baresSeed = [
     direccion: "Brasil 88, Santiago centro, Chile",
     pais: paises.Chile,
     ubicacionUrl: "https://goo.gl/maps/mYQ4zGfaJEdff2Up6",
+    ubicacion: {
+      type: "Point",
+      coordinates: [-33.443952, -70.665121],
+      index: "2dsphere",
+    },
     galeria: [
       `${process.env.STATIC_FILES_URL}/cerveceria-artesanal-chilena-0000.jpg`,
     ],
@@ -180,6 +205,11 @@ const baresSeed = [
     direccion: "Brasil 88, Santiago centro, Chile",
     pais: paises.Chile,
     ubicacionUrl: "https://goo.gl/maps/4dXKgTeVZBovPSFZ7",
+    ubicacion: {
+      type: "Point",
+      coordinates: [-33.450566, -70.652608],
+      index: "2dsphere",
+    },
     galeria: [`${process.env.STATIC_FILES_URL}/el-meson-chile.jpg`],
     contactos: [
       {
@@ -203,6 +233,7 @@ router.post("/", async (request, response) => {
   const bares = await db.get("bares");
 
   bares.createIndex({ slug: 1 }, { unique: true });
+  bares.createIndex({ ubicacion: "2dsphere" });
 
   for (const bar of baresSeed) {
     const existe = await bares.findOne({

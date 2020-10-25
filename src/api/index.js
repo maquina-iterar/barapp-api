@@ -1,7 +1,8 @@
 const express = require("express");
 
-const bares = require("./bares");
 const seed = require("./seed");
+const bares = require("./bares");
+const cities = require("./cities");
 
 const router = express.Router();
 
@@ -11,7 +12,8 @@ router.get("/", (req, res) => {
   });
 });
 
-router.use("/bares", bares);
 router.use("/seed", seed);
+router.use("/bares", bares);
+router.use("/cities", cities);
 
 module.exports = router;

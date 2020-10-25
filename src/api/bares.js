@@ -15,9 +15,22 @@ const schema = Joi.object({
 });
 
 router.get("/", async (request, response) => {
-  const bares = await db.get("bares");
+  const { latitude, longitude } = request.query;
 
-  const result = await bares.find({});
+  if (!latitude || !longitude) {
+    response.json([]);
+    return;
+  }
+
+  const bares = await db.get("bares");
+  const result = await bares.find({
+    ubicacion: {
+      $near: {
+        $geometry: { type: "Point", coordinates: [+latitude, +longitude] },
+        //$maxDistance: 60000,
+      },
+    },
+  });
 
   db.close();
 
