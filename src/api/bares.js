@@ -34,7 +34,7 @@ router.get("/", async (request, response) => {
         },
       },
     },
-    { limit: 2, skip: skipNum }
+    { limit: 10, skip: skipNum }
   );
 
   db.close();

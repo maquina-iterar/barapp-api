@@ -11,6 +11,7 @@ router.get("/", async (request, response, next) => {
 
     const options = {
       keys: ["name", "country"],
+      shouldSort: false
     };
 
     const fuse = new Fuse(cities, options);
