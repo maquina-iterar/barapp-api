@@ -6,10 +6,10 @@ const authorizer = jwt({
     cache: true,
     rateLimit: true,
     jwksRequestsPerMinute: 5,
-    jwksUri: "https://barapp.us.auth0.com/.well-known/jwks.json",
+    jwksUri: `${process.env.AUTH0_ISSUER}.well-known/jwks.json`,
   }),
-  audience: "https://api.barapp.com/",
-  issuer: "https://barapp.us.auth0.com/",
+  audience: process.env.AUTH0_AUDIENCE,
+  issuer: process.env.AUTH0_ISSUER,
   algorithms: ["RS256"],
 });
 
