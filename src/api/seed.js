@@ -1049,11 +1049,16 @@ router.post("/", async (request, response) => {
     if (!existe) {
       await bares.insert(bar);
     } else {
-      await bares.update(
+      await bares.findOneAndUpdate(
         {
           slug: bar.slug,
         },
-        { galeria: bar.galeria, fotoUrl: bar.fotoUrl ? bar.fotoUrl : "" }
+        {
+          $set: {
+            galeria: bar.galeria,
+            fotoUrl: bar.fotoUrl ? bar.fotoUrl : "",
+          },
+        }
       );
     }
   }
