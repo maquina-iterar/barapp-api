@@ -5,7 +5,7 @@
         "noMeGusta": 0,
         "nombre": "Club de la birra",
         "descripcion": "Tiene unas papas con salsas increíbles",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/club-de-la-birra-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/club-de-la-birra-argentina-0000.jpeg",
         "direccion": "Av. Pedro Goyena 60",
         "pais": "Argentina",
         "ubicacionUrl": "https://goo.gl/maps/fsdAcFhHQL4XQRGk7",
@@ -18,7 +18,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/club-de-la-birra-argentina-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/club-de-la-birra-argentina-0000.jpeg"
         ],
         "contactos": [
             {
@@ -41,7 +41,7 @@
         "noMeGusta": 0,
         "nombre": "However Bar",
         "descripcion": "Con cervezas artesanales y mucha buena onda, es una muy buena opción para juntarte con amigos a tomar algo. Además tiene muy buenos precios. ",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/however-bar-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/however-bar-argentina-0000.jpeg",
         "direccion": "Raúl Scalabrini Ortíz 601",
         "pais": "Argentina",
         "ubicacionUrl": "https://goo.gl/maps/1tcWUtctiSdpmfCR9",
@@ -54,7 +54,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/however-bar-argentina-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/however-bar-argentina-0000.jpeg"
         ],
         "contactos": [
             {
@@ -77,7 +77,7 @@
         "noMeGusta": 0,
         "nombre": "Avant Garden",
         "descripcion": "El lugar es hermoso, la carta de cervezas y tragos es variada, y algunas noches podes encontrarte con djs pasando música house en un ambiente súper relajado. ",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/avant-garden-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/avant-garden-argentina-0000.jpeg",
         "direccion": "Av. del Libertador 3883",
         "pais": "Argentina",
         "ubicacionUrl": "https://goo.gl/maps/Xnt97AkHjGGvp5tLA",
@@ -90,7 +90,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/avant-garden-argentina-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/avant-garden-argentina-0000.jpeg"
         ],
         "contactos": [
             {
@@ -113,7 +113,7 @@
         "noMeGusta": 0,
         "nombre": "El Tigre del Norte",
         "descripcion": "Combo de Caña + Cena por muy pocos euros, abudante y buen ambiente.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/el-tigre-del-norte-espana-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/el-tigre-del-norte-espana-0000.jpeg",
         "direccion": "Calle de Hortaleza 23",
         "pais": "España",
         "ubicacionUrl": "https://goo.gl/maps/CnWhRN8Z17TBmX3Z9",
@@ -126,8 +126,8 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/el-tigre-del-norte-espana-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/el-tigre-del-norte-espana-0001.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/el-tigre-del-norte-espana-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/el-tigre-del-norte-espana-0001.jpeg"
         ],
         "contactos": [
             {
@@ -150,7 +150,7 @@
         "noMeGusta": 0,
         "nombre": "Cervecería Intrinsical",
         "descripcion": "Cervecería artesanal chilena: Cervecería de barrio directo a tu casa 🍺",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/cerveceria-intrinsical-chile-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/cerveceria-intrinsical-chile-0000.jpeg",
         "direccion": "Brasil 88, Santiago centro, Chile",
         "pais": "Chile",
         "ubicacionUrl": "https://goo.gl/maps/mYQ4zGfaJEdff2Up6",
@@ -163,7 +163,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/cerveceria-intrinsical-chile-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/cerveceria-intrinsical-chile-0000.jpeg"
         ],
         "contactos": [
             {
@@ -187,7 +187,7 @@
         "noMeGusta": 0,
         "nombre": "El Mesón del Buen Comer",
         "descripcion": "Somos el Jardín Cervecero del centro de Santiago. Con 25 variedades de cerveza artesanal en Schop y una gran cantidad de cervezas nacionales e importadas.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/el-meson-del-buen-comer-chile-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/el-meson-del-buen-comer-chile-0000.jpeg",
         "direccion": "Brasil 88, Santiago centro, Chile",
         "pais": "Chile",
         "ubicacionUrl": "https://goo.gl/maps/4dXKgTeVZBovPSFZ7",
@@ -200,7 +200,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/el-meson-del-buen-comer-chile-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/el-meson-del-buen-comer-chile-0000.jpeg"
         ],
         "contactos": [
             {
@@ -224,7 +224,7 @@
         "noMeGusta": 0,
         "nombre": "Bar Pancho",
         "descripcion": "Siempre abieeto Buena atencion siempre!\nExcelente viaje\nExcelente atención. Abierto las 24 horas. Como pocos en esta Ciudad que cada vez está más apagada.\nBuena atención\nUn desastre los tragos un desartre la verdad in Recomendable ño unico bueno fue la amabilidad de los mozos/sas",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0000.jpeg",
         "direccion": "Av. Santa Fe 4396, C1425 BHS, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=15426844586261968509",
@@ -237,16 +237,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/bar-pancho-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/bar-pancho-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -267,7 +267,7 @@
         "noMeGusta": 0,
         "nombre": "Berkana",
         "descripcion": "Fuimos con un grupo de amigos y la atención fue buena ! Éxitos !!!\n\nExcelente atención  y las pizzas geniales\nSin mucho más que agregar que las estrellas que le di.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/berkana-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/berkana-argentina-0000.jpeg",
         "direccion": "Godoy Cruz 2481, C1425 FQE, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=15120443212459035566",
@@ -280,9 +280,9 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/berkana-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/berkana-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/berkana-argentina-0002.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/berkana-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/berkana-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/berkana-argentina-0002.jpeg"
         ],
         "contactos": [
             {
@@ -304,7 +304,7 @@
         "noMeGusta": 0,
         "nombre": "Canté Pri, Bar de Chicos",
         "descripcion": "Choris de alta gama.\nUn lugar pensado para la familia, la.plaza de juego muy linda. Fui a cenar, todo muy rico. En lo que respecta a la atención 10 puntos!. La pase muy bien, volveré.\nLe califico con 5 estrellas por lo innovador del lugar, por la excelente atención y por la excelente variedad de juegos y del menú.\nUn excelente lugar para ir con niños de todas las edades. Especial opción para ir en familia a comer, divertirse y pasarla realmente bien.\nSi bien tienen mucho por mejorar, desde el mantenimiento del edificio, los juegos y el mobiliario en general.\nQuizá les falte más seguridad en los juegos o alguien que supervise porque el salón de comidas está separado del de juegos.\nLas porciones están bien. La comida es sabrosa.\nSi van muchas familias se complica el uso de los juegos y espacios del lugar.\nLos precios son razonables para lo que ofrecen, pero no es muy accesible.\nOfrecen los medios de pago habituales.\nSe paga por chico por el uso de los juegos e incluye una bebida.\nNos divertimos mucho y seguro volvemos.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0000.jpeg",
         "direccion": "Charcas 5216, C1425 BOH, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=9438749716294827350",
@@ -317,16 +317,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cante-pri-bar-de-chicos-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cante-pri-bar-de-chicos-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -349,7 +349,7 @@
         "noMeGusta": 0,
         "nombre": "Cerveza Patagonia - Refugio Distrito Arcos",
         "descripcion": "Excelente lugar para compartir un buen momento con amigos. Muy buen ambiente y excelente atencion de mica que nos hizo buenas recomendaciones !!! Una genia\nIdeal para tomar una birra de paso, tienen Happy Hour de 14 a 17 hs!\nFuimos con una amiga y la pasamos muy bien. La cerveza excelente y el ambiente muy agradable. Gracias a Caro por la gentileza y la buena atención.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0000.jpeg",
         "direccion": "Paraguay 4979 Distrito Arcos Premium Outlet, BTA, C1425 CABA, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=13111065320151527727",
@@ -362,16 +362,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/cerveza-patagonia-refugio-distrito-arcos-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/cerveza-patagonia-refugio-distrito-arcos-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -456,7 +456,7 @@
         "noMeGusta": 0,
         "nombre": "Coronados De Birra",
         "descripcion": "Muy rica la cerveza, me atendieron muy bien y muy amables. Recomiendo el lugar!!\nMuy buena cerveza y excelente atención! Altamente recomendable\nEs muy buena birra y buenas empanadas y arepas. Y esta abierto hoy sábado hasta las 6 am buena onda y buen precio",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0000.jpeg",
         "direccion": "Humboldt 2486, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=442682313089128056",
@@ -469,15 +469,15 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/coronados-de-birra-argentina-0008.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/coronados-de-birra-argentina-0008.jpeg"
         ],
         "contactos": [
             {
@@ -500,7 +500,7 @@
         "noMeGusta": 0,
         "nombre": "Imago Eventos",
         "descripcion": "",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/imago-eventos-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/imago-eventos-argentina-0000.jpeg",
         "direccion": "Beruti 4617, C1425BDE C1425BDE, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=11092642561373982838",
@@ -513,7 +513,7 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/imago-eventos-argentina-0000.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/imago-eventos-argentina-0000.jpeg"
         ],
         "contactos": [
             {
@@ -536,7 +536,7 @@
         "noMeGusta": 0,
         "nombre": "La Arepería de Buenos Aires",
         "descripcion": "Todo muy rico y buen servicio mi novio no es celiaco y tenia opciones p el tambien\nFantastica! Todo rico y a buen precio. Cocinan sin tacc y preparan para llevar\nRica la comida, los jugos y licuados naturales y sabrosos. Cálida atención. Hacia mucho calor y no estaba adecuadamente acondicionado. Esperábamos estar más frescos por un rato. Estéticamente sencillo. Agradable.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0000.jpeg",
         "direccion": "C1425FWH, Bonpland 2430, C1425FWH CABA, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=10104245640879037876",
@@ -549,16 +549,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-areperia-de-buenos-aires-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-areperia-de-buenos-aires-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -581,7 +581,7 @@
         "noMeGusta": 0,
         "nombre": "La Espuma de los Días",
         "descripcion": "La mejor birra artesanal con un excelente jazz de fondo. 100% recomendado.\nMuy rica cerveza y excelente atención\nBuen sitio\nFalta algo para picar. La birra muy buena\nSólo pase por la puerta, pero la se nota la cordialidad de los empleados!",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0000.jpeg",
         "direccion": "Güemes 4818, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=12537090335483533888",
@@ -594,16 +594,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-espuma-de-los-dias-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-espuma-de-los-dias-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -659,7 +659,7 @@
         "noMeGusta": 0,
         "nombre": "La Niña de Oro",
         "descripcion": "Un buen licuado no puede faltar cuando paso por ahi\nExcelente sándwich de milanesa.\nEl bar está bien. La panadería es tremenda. Los sandwiches triples son de gran variedad y muy buena calidad.\nBuen lugar para disfrutar un buen rato agradable  con amigos buena vista",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0000.jpeg",
         "direccion": "Av. Santa Fe 4496, C1425 CABA, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=7296636602384015684",
@@ -672,16 +672,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/la-nina-de-oro-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/la-nina-de-oro-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -704,7 +704,7 @@
         "noMeGusta": 0,
         "nombre": "Lito's",
         "descripcion": "Me sorprendió gratamente, la atención , el precio y el producto final.\nEs para comer al paso, pero muy barato y muy bueno para lo que cuesta\nUn buen lugar para comer, buen menú para la gente de paso\nRápido, simple y sencillo ideal para comer al paso\nMuy buen lugar!!!",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0000.jpeg",
         "direccion": "Av. Santa Fe 4640, C1425 BHV, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=242545126365004775",
@@ -717,16 +717,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/litos-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/litos-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -748,7 +748,7 @@
         "noMeGusta": 0,
         "nombre": "Los recuerdos de ella",
         "descripcion": "Buen ambiente\n\n\nUn poco chico. Le falta magia\n",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0000.jpeg",
         "direccion": "C1425FOF, Fray Justo Sta. María de Oro 2280, C1425FOF CABA, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=625156385856629514",
@@ -761,16 +761,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/los-recuerdos-de-ella-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/los-recuerdos-de-ella-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -793,7 +793,7 @@
         "noMeGusta": 0,
         "nombre": "Maldini",
         "descripcion": "Buen lugar\nHermosa ubicación y ambientación del local. Excelente menú y tragos! Recomiendo fuertemente ir a ver algún artista en vivo ya que es una experiencia divina\nLa pizza es muy rica, aunque un poco cara.\nExcelente opción para tomar una cerveza buena y comer algo al paso!",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0000.jpeg",
         "direccion": "Paraguay 4979, C1425 BTC, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=12413220354036787989",
@@ -806,16 +806,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/maldini-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/maldini-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -838,7 +838,7 @@
         "noMeGusta": 0,
         "nombre": "Patagonia",
         "descripcion": "Excelente oasis en medio de tu rutina diaria! 🍻\nLindo stand de Patagonia, increíble el trato de Micaela que nos comentó como estaban hechas las cervezas . Gracias !\nMuy bien puesto este Patagonia. Voy siempre. Mica, Caro y Ariel atienden muy bien\nMuy buena atención, buena birra, precio medio y pocas sillas.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0000.jpeg",
         "direccion": "C1425FQH, Godoy Cruz 2502, C1425FQH CABA, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=9490815070867851954",
@@ -851,16 +851,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/patagonia-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/patagonia-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -912,7 +912,7 @@
         "noMeGusta": 0,
         "nombre": "The King Coffee",
         "descripcion": "Excelente atención calidad-precio ambiente familiar muy recomendable!\nExcelente cafe y tostado. La atencion de 10\nMuy buena atención\nLo mejor atención de la zona  vocación de servicio 100%\nMuy buenooo",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0000.jpeg",
         "direccion": "Humboldt 2414, C1425 FUH, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=7428736343858950354",
@@ -925,16 +925,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/the-king-coffee-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/the-king-coffee-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -957,7 +957,7 @@
         "noMeGusta": 0,
         "nombre": "Wherever",
         "descripcion": "Un lugar muy bueno! Buen menú, precios excelentes. Y una gran variedad de whiskys con explicación e historia incluida! Lugar super recomendable.\nMuy tranquilo el ambiente, buena atencion. La cerveza muy buena y a buen precio. Ambiente intimo\nMuy buen bar en la zona de Plaza Italia.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0000.jpeg",
         "direccion": "Fray Justo Sta. María de Oro 2476, C1425 FOJ, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=1310810529735506593",
@@ -970,16 +970,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/wherever-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/wherever-argentina-0009.jpeg"
         ],
         "contactos": [
             {
@@ -1002,7 +1002,7 @@
         "noMeGusta": 0,
         "nombre": "Yolo Bar",
         "descripcion": "Excelente atención y muy buena comida\nRiquísima la IPA y la Honey, muy buena onda el lugar!\nLugar de buena música y la comida exquisita!!!\nMuy buena atención! Comida excelente! Frente al shopping Arcos!\nExcelente atención, ambiente agradable y muy ricas cervezas. Agregaría más opciones vegetarianas/veganas.",
-        "fotoUrl": "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0000.jpeg",
+        "fotoUrl": "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0000.jpeg",
         "direccion": "Charcas 4800, C1425 BNT, Buenos Aires, Argentina",
         "pais": "Argentina",
         "ubicacionUrl": "https://maps.google.com/?cid=15319089359383622306",
@@ -1015,16 +1015,16 @@
             "index": "2dsphere"
         },
         "galeria": [
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0000.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0001.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0002.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0003.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0004.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0005.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0006.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0007.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0008.jpeg",
-            "https://s3.amazonaws.com/photos.drinx.app/yolo-bar-argentina-0009.jpeg"
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0000.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0001.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0002.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0003.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0004.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0005.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0006.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0007.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0008.jpeg",
+            "https://d1frufo1uy8rax.cloudfront.net/yolo-bar-argentina-0009.jpeg"
         ],
         "contactos": [
             {
